@@ -1,0 +1,13 @@
+.mainCalc{
+    padding: 10px 10px;
+    margin: 0 auto;
+    border-radius: 0px;
+    box-sizing: border-box;    
+}
+
+.frame{
+    background-color: #002B5B ;
+    margin-top: 8rem;
+    display: flex;
+    flex-direction: column;
+}

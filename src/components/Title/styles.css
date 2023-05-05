@@ -1,0 +1,11 @@
+.calculator-title{
+    font-size:30px;
+    background: #54BAB9;
+    width: 400px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 3px;
+    border-radius: 2px;
+    border: 2px solid black;
+    color: black;
+}

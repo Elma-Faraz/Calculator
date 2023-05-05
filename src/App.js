@@ -1,0 +1,13 @@
+import React from "react";
+import  ReactDOM  from "react-dom";
+
+import './App.css'
+import Calculator from "./components/Calculator/Calculator";
+
+const App = () => {
+  return(
+    <Calculator />
+  );
+} 
+
+export default App;
